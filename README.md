@@ -1,53 +1,111 @@
-# Merhaba, ben Kadir! 👋
+👋 Merhaba, ben Kadir Gündüz
 
-### 🚀 Yazılım Geliştirici
+🚀 Hakkımda
 
-Yazılım dünyasında kendimi geliştirmeyi ve yeni teknolojiler öğrenmeyi seven biriyim. Şu anda **Kırklareli Üniversitesi Yazılım Mühendisliği 3. sınıf öğrencisi** olarak yolculuğuma devam ediyorum. Karmaşık problemleri basit ve etkili kodlarla çözmekten keyif alırım. Problem çözme yeteneklerim ve analitik düşünce yapım, yazılım projelerinde etkin çözümler üretmemi sağlıyor. Teorik bilgilerimi gerçek dünya projelerine uygulamak ve yazılım dünyasında tecrübe kazanmak istiyorum.
+Ben Kırklareli Üniversitesi Yazılım Mühendisliği 3. sınıf öğrencisiyim. Yazılım geliştirme alanında kendimi sürekli geliştirmeye odaklanan, hem akademik hem de bireysel projelerle pratik kazanmaya önem veren bir geliştiriciyim. Özellikle backend geliştirme, veri analizi ve algoritmik problem çözme konularına ilgi duyuyorum.
 
----
+Üniversite hayatım boyunca Java, C#, Python ve web teknolojileri başta olmak üzere birçok farklı teknolojiyle çalıştım. Amacım; sürdürülebilir, okunabilir ve gerçek problemlere çözüm üreten yazılımlar geliştirmek.
 
-### 🧐 Hakkımda
+🛠️ Kullandığım Teknolojiler
 
-- 🔭 Şu anda **Mobil Uygulama Geliştirme** üzerine çalışıyorum.
-- 🌱 **Java, C#, Python** öğreniyorum.
-- 👯 **Mobil Uygulama, OOP, Web Geliştirme, ** projelerinde iş birliği yapmaya açığım.
-- 📫 Bana ulaşmak için: **kdrgndz203@gmail.com**
+💻 Programlama Dilleri
 
----
+Java
 
-### 🛠️ Yetenekler & Teknolojiler
+C#
 
-Burada kullandığın dilleri ve araçları ikonlarla göstermek görsel açıdan çok profesyonel durur.
+Python
 
-**Diller:**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+SQL
 
-**Framework & Kütüphaneler:**
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+🌐 Web Teknolojileri
 
-**Araçlar & Veritabanı:**
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+HTML5
 
----
+CSS3
 
-### 📊 GitHub İstatistiklerim
+JavaScript
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KadirGunduz13&show_icons=true&theme=radical&locale=tr" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadirGunduz13&layout=compact&theme=radical&locale=tr" alt="Top Langs" />
-</div>
+RESTful API
 
----
+🧩 Framework & Araçlar
 
-### 🔗 Benimle İletişime Geç
+.NET / Entity Framework
 
-<a href="https://www.linkedin.com/in/kadir-g%C3%BCnd%C3%BCz-a50a67325/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://medium.com/@kdrgndz" target="_blank">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-</a>
+Spring Boot (temel seviye)
+
+Maven
+
+Git & GitHub
+
+Visual Studio Code
+
+Visual Studio 2026
+
+IntelliJ IDEA
+
+📊 Veri & Ofis Araçları
+
+Excel (Dashboard & Veri Analizi)
+
+Pandas (Python)
+
+📂 Öne Çıkan Projeler
+
+🔹 Financial CRM
+
+C# ve Entity Framework kullanılarak geliştirildi
+
+Kullanıcı giriş sistemi (Login)
+
+Finansal verilerin yönetimi
+
+🔹 Server – Caster – Client Uygulaması
+
+Java ile geliştirildi
+
+REST API (MockAPI) entegrasyonu
+
+Dağıtık mimari mantığı
+
+🔹 PCA & AOP Projesi
+
+Iris veri seti üzerinde PCA analizi
+
+Aspect Oriented Programming ile loglama, performans ölçümü ve hata yönetimi
+
+🔹 Frontend Mini Projeler
+
+JavaScript To-Do List
+
+İngilizce – Türkçe kelime kartları uygulaması
+
+🎓 Eğitim & Sertifikalar
+
+🎓 Kırklareli Üniversitesi – Yazılım Mühendisliği
+
+📜 Geleceği Yazanlar
+
+C# Programlama 101 – 201 – 301
+
+Java Programlama 101 – 201 – 301
+
+🎯 İlgi Alanlarım
+
+Yazılım mimarileri
+
+Algoritma analizi ve tasarımı
+
+Veri analizi & yapay zeka
+
+Backend geliştirme
+
+Gerçek hayat problemlerine yazılımsal çözümler
+
+📫 Bana Ulaşın
+
+💼 LinkedIn: (ekleyebilirsin)
+
+📧 E-posta: (ekleyebilirsin)
+
+🌐 GitHub: github.com/kadirgunduz
