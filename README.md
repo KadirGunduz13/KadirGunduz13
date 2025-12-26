@@ -64,26 +64,27 @@ Merhaba! Ben bir **Yazılım Mühendisliği 3. Sınıf** öğrencisiyim. Karmaş
 
 ## 📊 GitHub Analizlerim
 
+| 🏆 GitHub İstatistikleri | 💻 En Çok Kullandığım Diller |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=KadirGunduz13&show_icons=true&theme=transparent&hide_border=true&locale=tr" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadirGunduz13&layout=compact&theme=transparent&hide_border=true&locale=tr" width="400" /> |
+
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KadirGunduz13&show_icons=true&theme=tokyonight&locale=tr&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="150" alt="stats" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadirGunduz13&layout=compact&theme=tokyonight&locale=tr&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="150" alt="languages" />
-</div>
-
----
-
-<div align="center">
-
-### 📫 Benimle İletişime Geç
-
-<a href="www.linkedin.com/in/kadir-gündüz-a50a67325" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Bağlantı%20Kur-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://medium.com/@kdrgndz" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-Yazılarımı%20Oku-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-<a href="kdrgndz203@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Bana%20Yaz-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <h3>🤝 Benimle İletişime Geç</h3>
+  
+  <a href="https://www.linkedin.com/in/KULLANICI_ADIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+  </a>
+  <span style="margin: 0 10px;"></span>
+  <a href="https://medium.com/@KULLANICI_ADIN" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="30"/>
+  </a>
+  <span style="margin: 0 10px;"></span>
+  <a href="mailto:emailadresin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+  </a>
 
 </div>
