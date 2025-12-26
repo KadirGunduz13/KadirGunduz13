@@ -23,9 +23,11 @@ Burada kullandığın dilleri ve araçları ikonlarla göstermek görsel açıda
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 **Framework & Kütüphaneler:**
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
 **Araçlar & Veritabanı:**
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -35,8 +37,8 @@ Burada kullandığın dilleri ve araçları ikonlarla göstermek görsel açıda
 ### 📊 GitHub İstatistiklerim
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radical&locale=tr" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=radical&locale=tr" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=KadirGunduz13&show_icons=true&theme=radical&locale=tr" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadirGunduz13&layout=compact&theme=radical&locale=tr" alt="Top Langs" />
 </div>
 
 ---
