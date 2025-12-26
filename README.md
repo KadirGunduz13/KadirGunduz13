@@ -66,7 +66,7 @@ Merhaba! Ben bir **Yazılım Mühendisliği 3. Sınıf** öğrencisiyim. Karmaş
 
 | 🏆 GitHub İstatistikleri | 💻 En Çok Kullandığım Diller |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=KadirGunduz13&show_icons=true&theme=transparent&hide_border=true&locale=tr" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadirGunduz13&layout=compact&theme=transparent&hide_border=true&locale=tr" width="400" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=kadirgunduz13&show_icons=true&theme=transparent&hide_border=true&locale=tr" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadirgunduz13&layout=compact&theme=transparent&hide_border=true&locale=tr" width="400" /> |
 
 <br/>
 
