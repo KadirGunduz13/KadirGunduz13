@@ -75,7 +75,7 @@ Merhaba! Ben bir **Yazılım Mühendisliği 3. Sınıf** öğrencisiyim. Karmaş
   
   <h3>🤝 Benimle İletişime Geç</h3>
   
-  <a href="www.linkedin.com/in/kadir-gündüz-a50a67325" target="_blank">
+  <a href="https://linkedin.com/in/kadir-gündüz-a50a67325" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
   <span style="margin: 0 10px;"></span>
