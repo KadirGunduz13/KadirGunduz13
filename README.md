@@ -75,15 +75,15 @@ Merhaba! Ben bir **Yazılım Mühendisliği 3. Sınıf** öğrencisiyim. Karmaş
   
   <h3>🤝 Benimle İletişime Geç</h3>
   
-  <a href="https://www.linkedin.com/in/KULLANICI_ADIN" target="_blank">
+  <a href="www.linkedin.com/in/kadir-gündüz-a50a67325" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
   <span style="margin: 0 10px;"></span>
-  <a href="https://medium.com/@KULLANICI_ADIN" target="_blank">
+  <a href="https://medium.com/@kdrgndz" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="30"/>
   </a>
   <span style="margin: 0 10px;"></span>
-  <a href="mailto:emailadresin@gmail.com">
+  <a href="mailto:kdrgndz203@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
   </a>
 
