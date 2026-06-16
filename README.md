@@ -14,9 +14,8 @@ Merhaba! Ben bir **Yazılım Mühendisliği 3. Sınıf** öğrencisiyim. Karmaş
 
 Şu anda akademik kariyerimin yanı sıra, gerçek dünya senaryolarına uygun projeler geliştiriyor ve öğrendiklerimi **Medium** üzerinden paylaşıyorum.
 
-- 🔭 Şu anda **JavaFX ve MySQL tabanlı Otel Rezervasyon Sistemi** üzerine çalışıyorum.
 - 🌱 **Yazılım Mimarisi, .NET Core** ve **Python** teknolojilerinde derinleşiyorum.
-- ✍️ **Medium**'da "Gerçek Hayat Örnekleriyle Tasarım Desenleri" serisi yazıyorum.
+- ✍️ **Medium**'da güncel bilgiler ile ilgili yazılar yazıyorum.
 - 🎯 Hedefim: Temiz kod (Clean Code) prensiplerine sadık, ölçeklenebilir sistemler tasarlamak.
 
 ---
